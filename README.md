@@ -7,7 +7,7 @@ By Carter Ung
 
 ## Features
 
-###Functionality:
+### Functionality:
 
 * Objects are constrained and formatted
 * Button displayed on screen
