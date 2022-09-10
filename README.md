@@ -2,7 +2,7 @@
 
 By Carter Ung
 
-*The Counter Application is an Android Application using Kotlin and Android Studio that enables users to click on the UI and increment the count on the screen.
+* The Counter Application is an Android Application using Kotlin and Android Studio that enables users to click on the UI and increment the count on the screen.
 
 
 ## Features
